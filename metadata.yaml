@@ -1,5 +1,5 @@
 _repo: The-Wonderful-Adventures-of-Nils_10935
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Nils Holgerssons underbara resa. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '4490'
     url: http://www.gutenberg.org/2009/agents/4490
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -36,6 +39,8 @@ description: "The Wonderful Adventures of Nils (orig. Nils Holgerssons underbara
   \ this book was one of the first to adopt the new spelling mandated by a government\
   \ resolution on April 7, 1906 (see Svenska Akademiens Ordlista).\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10935#The-Wonderful-Adventures-of-Nils
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
